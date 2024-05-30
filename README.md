@@ -1,1 +1,10 @@
-# DatabaseCourse
+# DatabaseCourse Demo Without Style.css
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/d09a2511-72b5-4225-9ae6-e2e54d4b3b87)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/1739b5f4-e24a-4349-b2a5-ce2f581e1665)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/6102c5a9-8d18-4f07-8883-2e5387260a41)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/f270416e-20f2-4e2c-a880-0539cf8e3e01)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/81f591f5-fcae-4e65-9f4d-8decb5e033d4)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/b2943f1f-acd6-491d-8032-f6094a4ee58b)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/8f53190b-c98e-4e7f-a312-09ab48cf8c35)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/cb35ee22-5224-455d-8d3a-e4e7712fb59a)
+![image](https://github.com/JefflineKristianD/DatabaseCourse/assets/162111653/a34cdb53-4c6b-4c8c-8a11-ef6b261a0d51)
